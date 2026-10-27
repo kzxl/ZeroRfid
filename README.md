@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> ### 🏛️ REPOSITORY CONSOLIDATION NOTICE
+> **This repository has been officially consolidated into the unified [ZeroPlatform Sovereign Monorepo](https://github.com/kzxl/ZeroPlatform).**  
+> All active development, issues, pull requests, and new releases take place in the central repository:  
+> 👉 **[kzxl/ZeroPlatform/tree/master/ZeroRfid](https://github.com/kzxl/ZeroPlatform/tree/master/ZeroRfid)**
+> 
+> *This repository is archived and preserved for historical reference and permanent package links.*
+
+---
+
 # ZeroRfid
 
 [![ZeroPlatform Tier](https://img.shields.io/badge/ZeroPlatform-Tier%202%20(Transport%20%26%20Storage)-059669.svg)](https://github.com/kzxl/ZeroPlatform)
